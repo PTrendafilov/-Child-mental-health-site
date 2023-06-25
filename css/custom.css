@@ -18,3 +18,9 @@
     background-color: #2468cf;
     border-color: #2468cf;
 }
+#information h4{
+    font-size: 20px;
+}
+.bg-dark{
+    background-color: #0e2a55!important;
+}
